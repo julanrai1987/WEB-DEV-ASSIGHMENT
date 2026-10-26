@@ -1,0 +1,23 @@
+h1 { 
+    color:aliceblue blue;
+
+}
+body  {
+    background-color: rgb(96, 127, 201);
+}
+div  {
+    background-color: purple;
+}
+.school R JPG.JPG {
+    width: 200;
+    height: auto;
+    max-width: 100;
+
+    
+}
+<style>
+nav ul{list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 30px;
+}
